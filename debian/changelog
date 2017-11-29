@@ -43,5 +43,6 @@ on-tftp (0.3.0) UNRELEASED; urgency=low
   * release 2.33.0
   * release 0.1.0
   * release 0.3.0
+  * release 0.3.0
 
- -- rackhd <rackhd@emc.com>  Wed, 29 Nov 2017 15:44:27 +0000
+ -- rackhd <rackhd@emc.com>  Wed, 29 Nov 2017 15:46:50 +0000
